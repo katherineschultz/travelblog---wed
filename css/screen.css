@@ -1,0 +1,220 @@
+/* line 7, ../_sass/screen.scss */
+img {
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  /* line 15, ../_sass/screen.scss */
+  .title {
+    font-size: 40px;
+    font-family: 'IM Fell French Canon', serif;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+  }
+
+  /* line 26, ../_sass/screen.scss */
+  .nav {
+    text-align: center;
+    height: 180px;
+  }
+
+  /* line 31, ../_sass/screen.scss */
+  .continent {
+    width: 90px;
+    padding: 9px;
+  }
+
+  /* line 36, ../_sass/screen.scss */
+  .samer {
+    width: 65px;
+  }
+
+  /* line 40, ../_sass/screen.scss */
+  .navbottom {
+    height: 20px;
+    background-color: black;
+  }
+
+  /* line 46, ../_sass/screen.scss */
+  .info {
+    width: 250px;
+  }
+  /* line 49, ../_sass/screen.scss */
+  .info img {
+    width: 80%;
+  }
+
+  /* line 54, ../_sass/screen.scss */
+  .dotline {
+    padding-top: 10px;
+  }
+
+  /* line 58, ../_sass/screen.scss */
+  .date {
+    font-size: 45px;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+  }
+
+  /* line 64, ../_sass/screen.scss */
+  .place {
+    font-size: 30px;
+    padding-bottom: 40px;
+    font-family: 'Radley', serif;
+  }
+
+  /* line 70, ../_sass/screen.scss */
+  .description {
+    font-size: 20px;
+    font-family: 'Radley', serif;
+  }
+
+  /* line 75, ../_sass/screen.scss */
+  .section2words, .section4words, .section6words {
+    text-align: right;
+    float: right;
+    font-family: 'Radley', serif;
+  }
+
+  /* line 81, ../_sass/screen.scss */
+  .linkwords, .sadescription {
+    clear: both;
+  }
+
+  /* line 85, ../_sass/screen.scss */
+  .sadescription {
+    font-family: 'Radley', serif;
+    color: #bbb;
+    font-size: 50px;
+  }
+
+  /* line 91, ../_sass/screen.scss */
+  .link {
+    position: relative;
+    clear: both;
+  }
+
+  /* line 96, ../_sass/screen.scss */
+  .linkwords {
+    position: absolute;
+    top: 19%;
+    left: 20%;
+  }
+
+  /* line 102, ../_sass/screen.scss */
+  .image {
+    padding-top: 10px;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 1000px) {
+  /* line 110, ../_sass/screen.scss */
+  .title {
+    font-size: 60px;
+    font-family: 'IM Fell French Canon', serif;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0px;
+  }
+
+  /* line 121, ../_sass/screen.scss */
+  .nav {
+    text-align: center;
+    height: 110px;
+  }
+
+  /* line 126, ../_sass/screen.scss */
+  .continent {
+    width: 110px;
+    padding: 20px;
+  }
+
+  /* line 131, ../_sass/screen.scss */
+  .samer {
+    width: 9%;
+  }
+
+  /* line 135, ../_sass/screen.scss */
+  .navbottom {
+    height: 60px;
+    background-color: black;
+  }
+
+  /* line 140, ../_sass/screen.scss */
+  .info {
+    padding-top: 25px;
+  }
+  /* line 143, ../_sass/screen.scss */
+  .info img {
+    width: 40%;
+  }
+
+  /* line 148, ../_sass/screen.scss */
+  .dotline {
+    padding-top: 70px;
+  }
+
+  /* line 152, ../_sass/screen.scss */
+  .date {
+    font-size: 45px;
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+  }
+
+  /* line 158, ../_sass/screen.scss */
+  .place {
+    font-size: 30px;
+    padding-bottom: 40px;
+    font-family: 'Radley', serif;
+  }
+
+  /* line 164, ../_sass/screen.scss */
+  .description {
+    font-size: 30px;
+    font-family: 'Radley', serif;
+  }
+
+  /* line 169, ../_sass/screen.scss */
+  .section2words, .section4words, .section6words {
+    text-align: right;
+    float: right;
+    font-family: 'Radley', serif;
+    width: 100%;
+  }
+
+  /* line 176, ../_sass/screen.scss */
+  .linkwords, .sadescription {
+    clear: both;
+  }
+
+  /* line 180, ../_sass/screen.scss */
+  .sadescription {
+    font-family: 'Radley', serif;
+    color: #bbb;
+    font-size: 50px;
+  }
+
+  /* line 186, ../_sass/screen.scss */
+  .link {
+    position: relative;
+    clear: both;
+  }
+
+  /* line 191, ../_sass/screen.scss */
+  .linkwords {
+    position: absolute;
+    top: 19%;
+    left: 20%;
+  }
+
+  /* line 197, ../_sass/screen.scss */
+  .image {
+    padding-top: 10px;
+  }
+}

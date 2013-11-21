@@ -1,0 +1,203 @@
+// Reset no longer needed if you're using Bootstrap. But add it back if you don't want to use Bootstrap.
+// @import "reset";
+
+
+
+
+img {
+    width: 100%;
+}
+
+
+
+@media screen and (max-width: 600px) {
+
+    .title {
+        font-size: 40px;
+        font-family: 'IM Fell French Canon', serif;
+        letter-spacing: 5px;
+        text-transform: uppercase;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 10px 0px;
+    }
+
+    .nav {
+        text-align: center;
+        height: 180px;
+    }
+
+    .continent {
+        width: 90px;
+        padding: 9px;
+    }
+
+    .samer {
+        width: 65px;
+    }
+
+    .navbottom {
+        height: 20px;
+        background-color: black;
+    }
+
+
+    .info {
+        width: 250px;
+
+        img{
+            width:80%
+        }
+    }
+
+    .dotline {
+        padding-top: 10px;
+    }
+
+    .date {
+        font-size: 45px;
+        font-family: 'Bitter', serif;
+        font-weight: bold;
+    }
+
+    .place {
+        font-size: 30px;
+        padding-bottom: 40px;
+        font-family: 'Radley', serif;
+    }
+
+    .description {
+        font-size: 20px;
+        font-family: 'Radley', serif;
+    }
+
+    .section2words, .section4words, .section6words {
+        text-align: right;
+        float: right;
+        font-family: 'Radley', serif;
+    }
+
+    .linkwords, .sadescription {
+        clear: both;
+    }
+
+    .sadescription {
+        font-family: 'Radley', serif;
+        color: #bbb;
+        font-size: 50px;
+    }
+
+    .link {
+        position: relative;
+        clear: both;
+    }
+
+    .linkwords {
+        position: absolute;
+        top: 19%;
+        left: 20%;
+    }
+
+    .image {
+        padding-top: 10px;
+    }
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 1000px) {
+
+    .title {
+        font-size: 60px;
+        font-family: 'IM Fell French Canon', serif;
+        letter-spacing: 10px;
+        text-transform: uppercase;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 15px 0px;
+    }
+
+    .nav {
+        text-align: center;
+        height: 110px;
+    }
+
+    .continent {
+        width: 110px;
+        padding: 20px;
+    }
+
+    .samer {
+        width: 9%;
+    }
+
+    .navbottom {
+        height: 60px;
+        background-color: black;
+    }
+
+    .info {
+        padding-top: 25px;
+
+        img{
+            width:40%
+        }
+    }
+
+    .dotline {
+        padding-top: 70px;
+    }
+
+    .date {
+        font-size: 45px;
+        font-family: 'Bitter', serif;
+        font-weight: bold;
+    }
+
+    .place {
+        font-size: 30px;
+        padding-bottom: 40px;
+        font-family: 'Radley', serif;
+    }
+
+    .description {
+        font-size: 30px;
+        font-family: 'Radley', serif;
+    }
+
+    .section2words, .section4words, .section6words {
+        text-align: right;
+        float: right;
+        font-family: 'Radley', serif;
+        width: 100%;
+    }
+
+    .linkwords, .sadescription {
+        clear: both;
+    }
+
+    .sadescription {
+        font-family: 'Radley', serif;
+        color: #bbb;
+        font-size: 50px;
+    }
+
+    .link {
+        position: relative;
+        clear: both;
+    }
+
+    .linkwords {
+        position: absolute;
+        top: 19%;
+        left: 20%;
+    }
+
+    .image {
+        padding-top: 10px;
+    }
+
+
+}
+
